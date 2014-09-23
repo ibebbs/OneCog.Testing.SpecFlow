@@ -1,15 +1,15 @@
 <?xml version="1.0"?>
 <package >
   <metadata>
-    <id>$id$</id>
+    <id>OneCog.Testing.SpecFlow</id>
     <version>$version$</version>
     <title>$title$</title>
-    <authors>$author$</authors>
-    <owners>$author$</owners>
+    <authors>ibebbs</authors>
+    <owners>OneCog Solutions</owners>
     <licenseUrl>https://github.com/ibebbs/OneCog.Testing.SpecFlow</licenseUrl>
     <projectUrl>https://github.com/ibebbs/OneCog.Testing.SpecFlow</projectUrl>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
-    <description>$description$</description>
+    <description>Extensions for simplifying testing with SpecFlow</description>
     <copyright>Copyright 2014</copyright>
     <tags>SpecFlow testing</tags>
   </metadata>
